@@ -48,8 +48,8 @@ public class C01_MavenIlkTest {
         ilkUrun.click();
 
         // Sayfadaki tum basliklari yazdiralim
-List<WebElement> safyaBasliklari = driver.findElements(By.xpath("/h1|//h2|//h5|//h3|//h4|//h6"));
-safyaBasliklari.forEach(t-> System.out.println(t.getText()));
+        List<WebElement> safyaBasliklari = driver.findElements(By.xpath("//h1|//h2|//h5|//h3|//h4|//h6"));
+        safyaBasliklari.forEach(t -> System.out.println(t.getText()));
 
 
     }
