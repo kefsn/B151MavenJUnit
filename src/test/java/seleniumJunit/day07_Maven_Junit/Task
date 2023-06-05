@@ -17,3 +17,26 @@ Add to Cart butonuna basin
 Alisveris sepetine tiklayin
 Sectiginiz urunun basarili olarak sepete eklendigini control  edin
 Sayfayi kapatin
+
+
+
+//https://id.heroku.com/login sayfasina gidin
+//Bir mail adersi giriniz
+//Login butonuna tiklayini
+// "There was a problem with your login." texti gorunur ise
+//"kayit yapilamadi" yazdiriniz
+//eger yazi gorunur degilse "kayit yapildi" yazdiriniz
+//sayfayı kapatiniz
+
+
+a.Verilen web sayfasına gidin.
+https://the-internet.herokuapp.com/checkboxes
+b.Checkbox1 ve checkbox2 elementlerini locate edin.
+c.Checkbox1 seçili değilse onay kutusunu tıklayın
+d.Checkbox2 seçili değilse onay kutusunu tıklayın
+
+-https://www.facebook.com adresine gidin
+-Cookies’i kabul edin
+-“Create an Account” button’una basin
+-“radio buttons” elementlerini locate edin
+-Secili degilse cinsiyet butonundan size uygun olani secin
