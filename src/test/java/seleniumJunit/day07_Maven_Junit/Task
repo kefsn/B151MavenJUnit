@@ -40,3 +40,21 @@ d.Checkbox2 seçili değilse onay kutusunu tıklayın
 -“Create an Account” button’una basin
 -“radio buttons” elementlerini locate edin
 -Secili degilse cinsiyet butonundan size uygun olani secin
+
+
+*** Aşağıdaki Task'i Junit framework'u ile yapınız
+- Before methodu ile drive'i olusturup ayarlamalari yapiniz
+- ebay sayfasına gidiniz
+- electronics bölümüne tıklayınız
+- Genişliği 225 ve Uzunluğu 225 olan resimlerin hepsine tıklayalım
+- Her sayfanın sayfa başlığını yazdıralım
+- After methodu ile sayfayı kapatalım
+
+/*
+1)https://amazon.com adresine gidin
+2)Aşağıdaki adları kullanarak 4 test metodu oluşturun ve gerekli testleriyapin
+    ○ title Test  => Sayfa başlığının “Amazon” kelimesini içerip içermediğini test edin
+    ○ image Test => Amazon resminin görüntülendiğini (isDisplayed()) test edin
+    ○ Search Box 'in erisilebilir oldugunu test edin(isEnabled())
+    ○ wrongTitleTest => Sayfa basliginin “amazon” içermediğini doğrulayın
+*/
