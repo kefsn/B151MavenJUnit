@@ -15,7 +15,7 @@ import java.time.Duration;
 public class NT02_BeforeClassAfterClass {
 
   /*
-  Before class ve After class test methodlarımızdan önce , bir sefer çalışmasını
+  BeforeClass ve AfterClass test methodlarımızdan önce , bir sefer çalışmasını
   istediğimiz codları bu methodlara koyarız.Mesela testlerimiz başlamadan önce
   database bağlantısı  yapmak için kullanılabilir.Yada hangi driver'ı kullanacaksak
   yine bunu beforeClass'a koyabiliriz .Aynı şekilde testlerimizden sonra database'i sonlandrımak

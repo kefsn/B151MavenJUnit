@@ -1,0 +1,32 @@
+-Amazon sayfasına gidelim
+-Arama Kutusundaki Dropdown menuyu yazdıralım
+-Dropdown menuden sırasıyla ilk 5 başlığı (Arts&Crafts ile başlayıp Books'a kadar Books dahil) seçip
+başlık altındakileri aratalım. Her aramada sayfa başlığını yazdıralım
+Not: Select Class'ı kullanalım
+
+
+-http://demo.automationtesting.in/Alerts.html sayfasına gidiniz
+-Alert with OK karşısındaki click the button to display an alert box: butonuna tıklayınız
+-Çıkan alert üzerindeki yazıyı konsola yazdırınız ve tamam butonuna basınız
+-Alert with OK & Cancel butonuna basınız ve sonrasında click the button to display a confirm box butonuna basınız
+-Çıkan alert'te iptal butonuna basınız
+-Alert with Textbox butonuna basınız ve sonrasında click the button to demonstrate the prompt box butonuna basınız
+-Çıkan prompt box'a 'isminizi' yazdırınız ve Tamam'a basınız
+-Çıkan mesajı konsola yazdırınız
+-Çıkan mesajın 'Hello <isminiz> How are you today' yazdığını doğrulayınız
+
+
+// https://www.jqueryscript.net/demo/Easy-iFrame-based-Twitter-Emoji-Picker-Plugin-jQuery-Emoojis/ sitesine gidin
+// ikinci emojiye tıklayın
+// İkinci emoji öğelerini yazdırınız
+// Parent iframe e geri donun
+// Formu doldurun,(Formu istediğiniz metinlerle doldurun)
+// Apply button a basiniz
+
+
+--------------------------------------------------
+
+
+
+
+

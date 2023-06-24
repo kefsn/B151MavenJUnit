@@ -21,7 +21,7 @@ public class C02_BeforeClassAfterClass {
     @AfterClass
     public static void afterClass() throws Exception {
 
-        System.out.println(" @AfterClass Classta ilk  son çalışan methoddur");
+        System.out.println(" @AfterClass Classta   son çalışan methoddur");
 
     }
 
@@ -32,7 +32,7 @@ public class C02_BeforeClassAfterClass {
 
     @After
     public void tearDown() throws Exception {
-        System.out.println("@After Her Test methodundan önce çalışır.");
+        System.out.println("@After Her Test methodundan sonra çalışır.");
     }
 
     @Test
